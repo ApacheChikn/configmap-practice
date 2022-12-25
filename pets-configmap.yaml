@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: pets
+data:
+  cat: Dante
+  dog: "Rose Bud"
